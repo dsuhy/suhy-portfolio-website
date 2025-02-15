@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     }
   },
   openGraph: {
-    title: "Suhy Web Design - Digital Solutions That Elevate Your Presence in Dallas, TX",
+    title: "Suhy Web Design | Technology Solutions | Dallas, TX",
     description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area succeed online.",
     url: "https://suhy.tech",
     siteName: "Suhy Web Design",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Suhy Web Design - Digital Solutions That Elevate Your Presence in Dallas, TX",
+    title: "Suhy Web Design | Technology Solutions | Dallas, TX",
     description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area succeed online.",
     images: ["https://suhy.tech/twitter-image.jpg"]
   },
