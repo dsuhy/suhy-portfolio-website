@@ -8,16 +8,16 @@ import slate from '../../images/projects/slate-hero.png';
 const ProjectsSection = () => {
   const projects: ProjectCardProps[] = [
     {
-      title: "Ohlenforst & Ward Orthodontics",
-      description: "A modern e-commerce solution with seamless checkout experience",
+      title: "Ohlenforst & Ward Orthodontics - Irving, TX",
+      description: "Elevating patient care through intuitive web design that simplifies the orthodontic booking process.",
       category: "Web Development",
       image: ohlenforst,
       url: "https://www.irvingorthodontist.com" // Add actual URL
     },
     {
-      title: "Slate Property Tax Solutions",
-      description: "Complete brand identity design for a tech startup",
-      category: "Branding",
+      title: "Slate Property Tax Solutions - Dallas, TX",
+      description: "Breathing life into a startup's vision through a comprehensive web experience that stands out in the competitive property tax landscape.",
+      category: "Web Development",
       image: slate,
       url: "https://slatepts.com" // Add actual URL
     },
