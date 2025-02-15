@@ -19,7 +19,7 @@ const ContactSection = () => {
   }
 
   return (
-    <section className="relative z-10 bg-black/50 backdrop-blur-lg py-24">
+    <section className="relative z-10 bg-black/50 backdrop-blur-lg py-24" id='contact'>
       <div className="max-w-6xl mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
           <div>

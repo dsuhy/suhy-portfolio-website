@@ -1,4 +1,3 @@
-// src/components/layout/Navigation.tsx
 'use client';
 
 import React, { useState, useEffect } from 'react';
@@ -27,8 +26,8 @@ const Navigation = () => {
           <span className="text-white font-bold text-xl font-montserrat">suhy.tech</span>
         </a>
 
-        {/* Desktop Navigation */}
-        <div className="hidden md:flex items-center space-x-2">
+        {/* Desktop Navigation - Commented Out */}
+        {/* <div className="hidden md:flex items-center space-x-2">
           <NavLink href="/about">About</NavLink>
           <NavLink href="/promise">Promise</NavLink>
           <NavLink href="/resources">Resources</NavLink>
@@ -41,19 +40,19 @@ const Navigation = () => {
             Contact
             <ArrowUpRight className="ml-1 w-4 h-4" />
           </a>
-        </div>
+        </div> */}
 
-        {/* Mobile Menu Button */}
-        <button 
+        {/* Mobile Menu Button - Commented Out */}
+        {/* <button 
           className="md:hidden text-white"
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
         >
           {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-        </button>
+        </button> */}
       </div>
 
-      {/* Mobile Menu */}
-      {isMobileMenuOpen && (
+      {/* Mobile Menu - Commented Out */}
+      {/* {isMobileMenuOpen && (
         <div className="md:hidden absolute top-full left-0 w-full bg-black/95 backdrop-blur-md">
           <div className="flex flex-col items-center space-y-6 py-8">
             <NavLink href="/about">About</NavLink>
@@ -69,7 +68,7 @@ const Navigation = () => {
             </a>
           </div>
         </div>
-      )}
+      )} */}
     </nav>
   );
 };
