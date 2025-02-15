@@ -1,4 +1,4 @@
-import PortfolioWebsite from '@/app/components/PortfolioWebsite'
+import PortfolioWebsite from "./components/PortfolioWebsite"
 
 export default function Home() {
   return <PortfolioWebsite />

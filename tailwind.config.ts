@@ -11,6 +11,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'brand-blue': '#0552ae'
+      },
+      fontFamily: {
+        montserrat: ['var(--font-montserrat)'],
+      },
+      animation: {
+        'spin-slow': 'spin 20s linear infinite',
       },
     },
   },
