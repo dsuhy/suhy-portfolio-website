@@ -24,7 +24,7 @@ const Navigation = () => {
     }`}>
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <a href="/" className="flex items-center space-x-2">
-          <span className="text-white font-bold text-xl">SUHY.TECH</span>
+          <span className="text-white font-bold text-xl font-montserrat">suhy.tech</span>
         </a>
 
         {/* Desktop Navigation */}

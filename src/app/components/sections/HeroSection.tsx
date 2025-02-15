@@ -14,7 +14,7 @@ const HeroSection = () => {
 
                 <h2 className="text-6xl md:text-7xl font-bold mb-6">
                     <span className="text-white"> Elevating Digital </span>
-                    <span className="text-red-400">Presence.</span>
+                    <span className="text-brand-blue font-montserrat drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]">Presence.</span>
                 </h2>
 
                 <p className="text-gray-300 text-lg md:text-xl mb-12 max-w-3xl mx-auto">
