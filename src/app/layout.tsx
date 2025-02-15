@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Suhy Web Design | Technology Solutions | Dallas, TX",
     description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area succeed online.",
-    images: ["https://suhy.tech/twitter-image.jpg"]
+    images: ["https://suhy.tech/favicon.ico"]
   },
   icons: {
     icon: "/favicon.ico",
