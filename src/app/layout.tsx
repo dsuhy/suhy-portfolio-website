@@ -18,8 +18,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Suhy Web Design - Dallas Texas Tech Solutions",
-  description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area succeed online.",
+  title: "Suhy Web Design | Technology Solutions | Dallas, TX",
+  description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area technologically succeed.",
   keywords: ["web design dallas", "web development dallas", "digital solutions dallas", "responsive websites dallas", "custom applications dallas"],
   authors: [
     { name: "Suhy Web Design", url: "https://suhy.tech" },
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Suhy Web Design | Technology Solutions | Dallas, TX",
-    description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area succeed online.",
+    description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area technologically succeed.",
     url: "https://suhy.tech",
     siteName: "Suhy Web Design",
     images: [
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Suhy Web Design | Technology Solutions | Dallas, TX",
-    description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area succeed online.",
+    description: "Suhy Web Design, based in Dallas, TX, creates stunning websites and custom digital tools to help businesses in the Dallas area technologically succeed.",
     images: ["https://suhy.tech/favicon.ico"]
   },
   icons: {

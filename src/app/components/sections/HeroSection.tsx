@@ -54,8 +54,8 @@ const HeroSection = () => {
                 onClick={() => scrollToSection('projects')}
                 className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center text-white/50 cursor-pointer hover:text-white/70 transition-colors duration-200"
             >
-                <span className="text-sm mb-2">Scroll to explore</span>
-                <div className="w-px h-16 bg-gradient-to-b from-white/50 to-transparent"></div>
+                {/* <span className="text-sm mb-2">Scroll to explore</span>
+                <div className="w-px h-16 bg-gradient-to-b from-white/50 to-transparent"></div> */}
             </div>
         </section>
     );
