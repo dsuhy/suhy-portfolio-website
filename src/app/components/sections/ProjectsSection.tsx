@@ -12,14 +12,14 @@ const ProjectsSection = () => {
       description: "Elevating patient care through intuitive web design that simplifies the orthodontic booking process.",
       category: "Web Development",
       image: ohlenforst,
-      url: "https://www.irvingorthodontist.com" // Add actual URL
+      url: "https://www.irvingorthodontist.com"
     },
     {
       title: "Slate Property Tax Solutions - Dallas, TX",
-      description: "Breathing life into a startup's vision through a comprehensive web experience that stands out in the competitive property tax landscape.",
+      description: "Breathing life into a startup's vision with a clean web experience, standing out in the competitive property tax landscape.",
       category: "Web Development",
       image: slate,
-      url: "https://slatepts.com" // Add actual URL
+      url: "https://slatepts.com"
     },
   ];
 
